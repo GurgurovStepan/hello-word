@@ -1,2 +1,4 @@
 # hello-word
-Create a new Repository
+Всем привет!
+
+Писать много не буду мне ЛЕНь!
